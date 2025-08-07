@@ -1,10 +1,10 @@
 <h1 align="center">Привет！</h1>
 <div align="center"> 
   
-<img src="[https://animerants.net/wp-content/uploads/2020/09/serial-experiments-lain-2.gif?w=400](https://br.pinterest.com/pin/311803974222904711/)" alt="Lain GIF" width="250px" />
+<img src="https://br.pinterest.com/pin/311803974222904711/" alt="Lain GIF" width="250px" />
 
 <p align="center">
-  <p align="center"> Software Developer </p>
+  <h3 align="center"> Software Developer </h3>
 </p>
 
 </div>
