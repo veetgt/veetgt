@@ -18,5 +18,7 @@
 </h5>
 
 # Some other things that I do
+<h5>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@veetgoodtime) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/veetgoodtime)
+</h5>
