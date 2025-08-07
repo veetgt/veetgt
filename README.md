@@ -1,4 +1,4 @@
-## Hi there 👋
+![Texto alternativo para a imagem](link_da_sua_imagem.png)
 
 <!--
 **veetgt/veetgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
