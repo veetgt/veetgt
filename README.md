@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/10/fa/ed/10faed043cc45390b376cc2e8c19252c.gif" alt="Lain GIF" width="550px" />
 
 <p align="center">
-  <h3 align="center"> Software Developer </h3>
+  <h3 align="center"> I'm a Software Developer </h3>
 </p>
 
 </div>
