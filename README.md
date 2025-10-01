@@ -1,8 +1,6 @@
 # <h1 align="center">привет</h1>
 
-<p align="center">
-  <a href="https://github.com/veetgt"><img src="https://github-readme-stats.vercel.app/api?username=veetgt&hide_border=true&show_icons=true" alt="veetgt's github stats"></a>
-</p>
+![veetgt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
  
 # Languages & Tools:
