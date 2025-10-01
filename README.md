@@ -2,16 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veetgt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/veetgt"><img src="https://github-readme-stats.vercel.app/api?username=veetgt&hide_border=true&show_icons=true" alt="veetgt's github stats"></a>
+</p>
 
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/6b/cc/bf/6bccbf05c6ee77f894629bf4603c747f.gif"  />
 
-
-###
+ 
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
