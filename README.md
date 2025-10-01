@@ -6,10 +6,6 @@
   <a href="https://github.com/veetgt"><img src="https://github-readme-stats.vercel.app/api?username=veetgt&hide_border=true&show_icons=true" alt="veetgt's github stats"></a>
 </p>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/6b/cc/bf/6bccbf05c6ee77f894629bf4603c747f.gif"  />
-
  
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -20,6 +16,9 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/6b/cc/bf/6bccbf05c6ee77f894629bf4603c747f.gif"  />
+
 </p>
 
 
