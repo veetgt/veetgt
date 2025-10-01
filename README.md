@@ -1,10 +1,10 @@
 # <h1 align="center">привет</h1>
 
-<p align="center">
+<div align="center">
  
  ![veetgt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-</p>
+</div>
  
 # Languages & Tools:
 </br>
