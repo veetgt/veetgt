@@ -7,7 +7,7 @@
 </p>
 
  
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools:
 </br>
 
 <p align="center">
@@ -18,19 +18,16 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/6b/cc/bf/6bccbf05c6ee77f894629bf4603c747f.gif"  />
-
+</br></br></br></br></br>
 </p>
 
 
 
 
-# Contact Me :
+# Contact Me:
 
 <p>
  </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="vitorbontempo.10k@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
@@ -39,10 +36,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+</p>
