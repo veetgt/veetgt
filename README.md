@@ -1,4 +1,4 @@
-<h1> Hi 👋! My name is Vitor Bontempo and I'm a Programmer, from Brazil!</h1>
+<h1 align="center">привет</h1>
 
 <p align="center">
   <a href="https://github.com/veetgt"><img src="https://github-readme-stats.vercel.app/api?username=veetgt&hide_border=true&show_icons=true" alt="veetgt's github stats"></a>
