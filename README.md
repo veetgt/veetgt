@@ -1,4 +1,4 @@
-## привет
+# привет
 
 <p>
 </br>
@@ -10,7 +10,7 @@
  </div>
 </p> 
 
-# Languages & Tools:
+## Languages & Tools:
 
 </br>
 
@@ -28,7 +28,7 @@
 
 
 
-# Contact Me:
+## Contact Me:
 
 <p>
  </br>
