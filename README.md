@@ -5,7 +5,9 @@
 
  My name is Vitor Bontempo
  <div align="right">
+  
  ![veetgt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact)
+ 
  </div>
 </p> 
 # Languages & Tools:
