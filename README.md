@@ -3,10 +3,11 @@
 <p>
 </br>
 
- <div align="right">
+ <div style="display: flex; align-items: right;">
   
  ![veetgt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact)
- 
+
+ <p>My name is João Vitor</p>
  </div>
 </p> 
 
