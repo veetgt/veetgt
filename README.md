@@ -1,10 +1,9 @@
 # <h1 align="center"> привет </h1>
 
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left" width="50%">
-      <p>My name is João Vitor</p>
-      <p>I'm a developer passionate about learning new technologies and improving my skills every day.</p>
+      <p>My name is João Vitor Bontempo</p>
     </td>
     <td align="right" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact" />
