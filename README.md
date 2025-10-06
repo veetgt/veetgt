@@ -1,15 +1,15 @@
 # <h1 align="center"> привет </h1>
 
-<p>
-</br>
-
- <div style="display: flex; align-items: right; display: inline-block"; float: left">
-  
- ![veetgt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
- <p>My name is João Vitor</p>
- </div>
-</p> 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+    <td>
+      <p>My name is João Vitor</p>
+    </td>
+  </tr>
+</table>
 
 ## Languages & Tools:
 
