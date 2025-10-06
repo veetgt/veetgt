@@ -3,10 +3,10 @@
 <p align="center">
   
 </br> 
-
+  My name is João Vitor 
 <div display="flex" align="right" display="inline-block" float="right">
 
-  My name is João Vitor    
+     
   
   ![veetgt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veetgt&theme=dark&show_icons=true&hide_border=true&layout=compact) 
   
